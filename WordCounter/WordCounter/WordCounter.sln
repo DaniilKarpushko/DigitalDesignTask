@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter", "WordCounter\WordCounter.csproj", "{31EEEA9F-006B-4AA3-94DB-E908E9120E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter.ApplicationLayer", "WordCounter.ApplicationLayer\WordCounter.ApplicationLayer.csproj", "{966AA8D6-B862-46EF-A787-4D7AAD1F8B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EEEA9F-006B-4AA3-94DB-E908E9120E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EEEA9F-006B-4AA3-94DB-E908E9120E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EEEA9F-006B-4AA3-94DB-E908E9120E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EEEA9F-006B-4AA3-94DB-E908E9120E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966AA8D6-B862-46EF-A787-4D7AAD1F8B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966AA8D6-B862-46EF-A787-4D7AAD1F8B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966AA8D6-B862-46EF-A787-4D7AAD1F8B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966AA8D6-B862-46EF-A787-4D7AAD1F8B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

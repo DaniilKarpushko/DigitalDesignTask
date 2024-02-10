@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFojzL9jRPfgT9c/czf6qqaZWchhWU05Nai0Zm9p8PqxKJx13xlDgeh0foUVmmkIhPh1YPYU/QqiVCaSm+HLeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antikill\\Desktop\\GitHub\\DigitalDesignTask\\WordCounter\\WordCounter\\WordCounter.ApplicationLayer\\WordCounter.ApplicationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antikill\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\antikill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\antikill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
