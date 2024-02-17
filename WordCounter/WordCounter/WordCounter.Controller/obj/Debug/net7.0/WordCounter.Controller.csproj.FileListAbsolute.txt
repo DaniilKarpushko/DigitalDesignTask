@@ -1,0 +1,16 @@
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\bin\Debug\net7.0\WordCounter.Controller.deps.json
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\bin\Debug\net7.0\WordCounter.Controller.dll
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\bin\Debug\net7.0\WordCounter.Controller.pdb
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\bin\Debug\net7.0\WordCounter.Model.dll
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\bin\Debug\net7.0\WordCounter.Model.pdb
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\WordCounter.Controller.csproj.AssemblyReference.cache
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\WordCounter.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\WordCounter.Controller.AssemblyInfoInputs.cache
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\WordCounter.Controller.AssemblyInfo.cs
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\WordCounter.Controller.csproj.CoreCompileInputs.cache
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\WordCounter.Controller.sourcelink.json
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\WordCounter.Controller.csproj.CopyComplete
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\WordCounter.Controller.dll
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\refint\WordCounter.Controller.dll
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\WordCounter.Controller.pdb
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Controller\obj\Debug\net7.0\ref\WordCounter.Controller.dll

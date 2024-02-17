@@ -1,0 +1,12 @@
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\bin\Debug\net7.0\WordCounter.Model.deps.json
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\bin\Debug\net7.0\WordCounter.Model.dll
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\bin\Debug\net7.0\WordCounter.Model.pdb
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\obj\Debug\net7.0\WordCounter.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\obj\Debug\net7.0\WordCounter.Model.AssemblyInfoInputs.cache
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\obj\Debug\net7.0\WordCounter.Model.AssemblyInfo.cs
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\obj\Debug\net7.0\WordCounter.Model.csproj.CoreCompileInputs.cache
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\obj\Debug\net7.0\WordCounter.Model.sourcelink.json
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\obj\Debug\net7.0\WordCounter.Model.dll
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\obj\Debug\net7.0\refint\WordCounter.Model.dll
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\obj\Debug\net7.0\WordCounter.Model.pdb
+C:\Users\antikill\Desktop\GitHub\DigitalDesignTask\WordCounter\WordCounter\WordCounter.Model\obj\Debug\net7.0\ref\WordCounter.Model.dll
