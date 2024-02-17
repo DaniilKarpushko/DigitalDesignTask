@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordCounter.ApplicationLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3041ebf2d4a054c534d9e5dffcd4ff91780204d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee5f968a9db14fa290b7f795e5f711b20adeed0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordCounter.ApplicationLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordCounter.ApplicationLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

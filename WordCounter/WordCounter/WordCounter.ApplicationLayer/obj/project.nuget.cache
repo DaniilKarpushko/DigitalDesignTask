@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SFojzL9jRPfgT9c/czf6qqaZWchhWU05Nai0Zm9p8PqxKJx13xlDgeh0foUVmmkIhPh1YPYU/QqiVCaSm+HLeg==",
+  "dgSpecHash": "vICQgjD58EQNhu6jgacvParXGZztU/bvp3QintBfPxTlbNEccI3EfxIc0Jd4BJGF3Hk0GpfUZFnAB2Gab2Yk3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\antikill\\Desktop\\GitHub\\DigitalDesignTask\\WordCounter\\WordCounter\\WordCounter.ApplicationLayer\\WordCounter.ApplicationLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\antikill\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\antikill\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\antikill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\antikill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"

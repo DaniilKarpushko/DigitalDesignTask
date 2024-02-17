@@ -1,8 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter", "WordCounter\WordCounter.csproj", "{31EEEA9F-006B-4AA3-94DB-E908E9120E93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter", "WordCounter\WordCounter.csproj", "{209A98BF-A0E0-413C-A7CC-DBE2F41B42F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter.ApplicationLayer", "WordCounter.ApplicationLayer\WordCounter.ApplicationLayer.csproj", "{966AA8D6-B862-46EF-A787-4D7AAD1F8B01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter.Model", "WordCounter.Model\WordCounter.Model.csproj", "{32A0F057-7B68-4A69-BD83-715373D5BC62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter.Controller", "WordCounter.Controller\WordCounter.Controller.csproj", "{AA6A87B0-3A9B-47AF-B20D-FF7E3437C2E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,13 +12,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{31EEEA9F-006B-4AA3-94DB-E908E9120E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31EEEA9F-006B-4AA3-94DB-E908E9120E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31EEEA9F-006B-4AA3-94DB-E908E9120E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31EEEA9F-006B-4AA3-94DB-E908E9120E93}.Release|Any CPU.Build.0 = Release|Any CPU
-		{966AA8D6-B862-46EF-A787-4D7AAD1F8B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{966AA8D6-B862-46EF-A787-4D7AAD1F8B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{966AA8D6-B862-46EF-A787-4D7AAD1F8B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{966AA8D6-B862-46EF-A787-4D7AAD1F8B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209A98BF-A0E0-413C-A7CC-DBE2F41B42F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209A98BF-A0E0-413C-A7CC-DBE2F41B42F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209A98BF-A0E0-413C-A7CC-DBE2F41B42F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209A98BF-A0E0-413C-A7CC-DBE2F41B42F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A0F057-7B68-4A69-BD83-715373D5BC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A0F057-7B68-4A69-BD83-715373D5BC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A0F057-7B68-4A69-BD83-715373D5BC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A0F057-7B68-4A69-BD83-715373D5BC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6A87B0-3A9B-47AF-B20D-FF7E3437C2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6A87B0-3A9B-47AF-B20D-FF7E3437C2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6A87B0-3A9B-47AF-B20D-FF7E3437C2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6A87B0-3A9B-47AF-B20D-FF7E3437C2E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
